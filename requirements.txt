@@ -1,0 +1,11 @@
+
+### `requirements.txt`
+This file should list all the required packages to run the project.
+
+```txt
+librosa
+scikit-learn
+tensorflow
+keras
+matplotlib
+pandas
